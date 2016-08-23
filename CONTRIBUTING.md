@@ -1,5 +1,9 @@
 # Contributing to the IBM Design Icons
+
 this is change for stash.
+
+
+
 The IBM Design Icons contain icons for use in IBM products. They're available through both Bower and Node, making them easy to include within a project.
 
 ## Submitting Issues
